@@ -159,6 +159,7 @@
   },
   "optionalDependencies": {
     "browser-serialport": "latest",
+    "firmata": "https://github.com/nlemoine/firmata-js.git#main",
     "serialport": "^13.0.0"
   },
   "devDependencies": {
