@@ -159,7 +159,6 @@
   },
   "optionalDependencies": {
     "browser-serialport": "latest",
-    "firmata": "^2.2.0",
     "serialport": "^13.0.0"
   },
   "devDependencies": {
